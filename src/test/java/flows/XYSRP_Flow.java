@@ -102,6 +102,7 @@ public class XYSRP_Flow {
 	                Flynas.FlightDetails(driver, PnrDetails);
 	                Flynas.search(driver);
        	        	Thread.sleep(2000);
+
 	            } catch (Exception e) {
 	                
 	            }
